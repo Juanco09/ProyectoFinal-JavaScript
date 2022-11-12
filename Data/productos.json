@@ -1,0 +1,14 @@
+[
+    { "id": "LS", "nombre": "Luis Segundo", "variedad": "Malbec", "precio": 2964, "img":"./imágenes/LS.jpg", "encarrito": 0},
+    { "id": "LAOC", "nombre": "Las Acequias Oak", "variedad": "Cabernet Sauvignon", "precio": 987, "img":"./imágenes/LAOC.jpg", "encarrito": 0},
+    { "id": "LAOM", "nombre": "Las Acequias Oak", "variedad": "Malbec", "precio": 987, "img":"./imágenes/LAOM.jpg", "encarrito": 0},
+    { "id": "LACAC", "nombre": "Las Acequias Clase A", "variedad": "Chardonnay", "precio": 823, "img":"./imágenes/LACAC.jpg", "encarrito": 0},
+    { "id": "LACAM", "nombre": "Las Acequias Clase A", "variedad": "Malbec", "precio": 900, "img":"./imágenes/LACAM.jpg", "encarrito": 0},
+    { "id": "LACAS", "nombre": "Las Acequias Clase A", "variedad": "Syrah", "precio": 900, "img":"./imágenes/LACAS.jpg", "encarrito": 0},
+    { "id": "LACAB", "nombre": "Las Acequias Clase A", "variedad": "Bonarda", "precio": 900, "img":"./imágenes/LACAB.jpg", "encarrito": 0},
+    { "id": "ECT", "nombre": "El Ciprés", "variedad": "Torrontés", "precio": 618, "img":"./imágenes/ECT.jpg", "encarrito": 0},
+    { "id": "ECB", "nombre": "El Ciprés", "variedad": "Bonarda", "precio": 650, "img":"./imágenes/ECB.jpg", "encarrito": 0},
+    { "id": "ECM", "nombre": "El Ciprés", "variedad": "Malbec", "precio": 650, "img":"./imágenes/ECM.jpg", "encarrito": 0},
+    { "id": "ECS", "nombre": "El Ciprés", "variedad": "Sangiovese", "precio": 650, "img":"./imágenes/ECS.jpg", "encarrito": 0},
+    { "id": "ECC", "nombre": "El Ciprés", "variedad": "Cabernet Sauvignon", "precio": 650, "img":"./imágenes/ECC.jpg", "encarrito": 0}
+]
